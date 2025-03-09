@@ -1,4 +1,4 @@
-# FullStack
+
 Full Stack Projects
 Welcome to my Full Stack Projects repository! This is where I’ll be storing all my completed projects from freeCodeCamp.org as I work through their full-stack development curriculum. Each project showcases my skills in both front-end and back-end development, as well as my growth as a developer.
 
